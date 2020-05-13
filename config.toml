@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "blog.alexkoen.com"
+baseurl = "https://blog.alexkoen.com/"
 languageCode = "en"
 title = "Alex Koen"
 theme = "hugo-theme-cactus-plus"
