@@ -28,5 +28,3 @@ You might ask: "If my body sleeps when it needs to, and the longer I stay awake 
 What I came to understand was that my difficulty sleeping was a result of going to bed too early. If I was not hungry, I would not eat dinner earlier, yet when I could not sleep I thought only of going to bed on time. Most adults need 6–7 hours per night *at most*, and sleeping more comes at the cost of reduced sleep quality, resulting in a general feeling of lethargy. This is paradoxical, but if you want to improve the quality of your sleep and the way you feel the next day, go to bed later. Now, I typically retire around 11:00 pm, an hour later. Not only does this give me more time in my day to be unproductive, but I fall asleep faster, do not depend on medications, and feel less like a squash the next day. This simple routine has dramatically improved my life.
 
 *Most of what I have learned has come from excellent book The Sleep Solution by Dr. Chris Winter, who is both knowledgeable and hilarious. I highly recommend it.*
-
----
