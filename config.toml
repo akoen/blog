@@ -7,7 +7,7 @@ theme = "hugo-theme-cactus-plus"
 [params]
 	author = "Alex Koen"
 	description = "Site Description"
-	bio = "Hello, It's Alex."
+	bio = "A place for me to record my ideas and experiences."
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
@@ -22,7 +22,6 @@ theme = "hugo-theme-cactus-plus"
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
 	useDescriptionReplaceSummary = false
-
 
 	enableGoogleAnalytics = false
 	enableBaiduAnalytics = false
