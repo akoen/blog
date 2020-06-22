@@ -1,5 +1,5 @@
 +++
-title = "Thinking About Hydrogen Infrastructure for the Stanford Cleantech Hackathon"
+title = "Thinking about hydrogen infrastructure at the Stanford Cleantech hackathon"
 date = "2020-04-25"
 tags = ["Science"]
 +++
