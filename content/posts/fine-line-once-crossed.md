@@ -1,11 +1,11 @@
 
 +++
-title = "A Fine Line Once Crossed"
+title = "The other side"
 date = "2020-05-22"
 tags = ["Climbing"]
 +++
 
-Every proper adventurer has a line that they do not cross. This is a line of risk that they have established to keep themselves alive---one that must be respected at all costs. Crossing this line is a dangerous game, and many have died because they didn't stay within its boundaries. Unfortunately, not everything is always under our control…
+Every proper adventurer has a line that they do not cross---a boundary of risk that they have established to keep themselves alive. To cross this line is to play chicken with the will of nature, and very few choose to spend time on the other side. Unfortunately, not everything is always under our control…
 
 <!--more-->
 --- 
@@ -42,9 +42,9 @@ The dank cavern slowly gave way to my dance, and I was starting to gain confiden
 
 The moment I entered the chimney, I knew that I had gone the wrong way. The slightly off-vertical wall upon which my feet smeared desperately was slippery, and my feet skated as I tried to crawl upwards. It was terrifying. Down-climbing was out the question---it is almost impossible inside a squeeze chimney, and without any gear to catch me it would be suicide. My only option was to continue upwards, but there was hope.
 
-Above me, I had spotted a tiny fissure in the rear wall. Not large, but more than big enough for me to place a cam. As I squirmed upwards like a crazed inchworm, my gaze was locked on the beautiful crack above me, only a few feet away. Six inches... three inches... Santa wanted a career change. I stretched my hand as far as it could reach; my feet skated. After a final desperate thrutch, I grabbed my beloved #1 Totem cam, shoved it into the crack, and clipped my rope to it with the relief of a man who has just escaped his fate. Suddenly full of unfounded confidence, I stretched for the large hold above, and my feet finally abandoned me. I was left hanging there by one hand, attached to the rock by the single piece of protection that I had placed just moments ago.
+Above me, I had spotted a tiny fissure in the rear wall. Not large, but more than big enough for me to place a cam. As I squirmed upwards like a crazed inchworm, my gaze was locked on the beautiful crack above me, only a few feet away. Six inches... three inches... Santa wanted a career change. I stretched my hand as far as it could reach; my feet skated. After a final desperate thrutch, I grabbed my beloved #1 Totem cam, shoved it into the crack, and clipped my rope to it with the relief of a man who has just escaped his fate. Suddenly full of unfounded confidence, I stretched for the large hold above, and felt my feet finally abandon me. I was left hanging there by one hand, attached to the rock by the single piece of protection that I had placed just moments ago.
 
-When my dad finally finished the pitch and joined me at the station, he was full of laughs. "That was awesome!" he proclaimed, looking back down into the chasm below, "although that number one down there was way overcammed."
+When my dad finally finished the pitch and joined me at the station, he was full of laughs. "That was awesome!" he proclaimed, looking back down into the chasm below, "although that number one down there was a bit stuck."
 
 He, of course, had no idea what I had just been through. While I had been thrashing for my life high above him, he had sat at the base of the cave belaying, blissfully unaware and admiring the view. I thought it best not to tell him.
 
