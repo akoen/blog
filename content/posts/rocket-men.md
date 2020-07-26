@@ -10,7 +10,7 @@ tags = ["Books"]
 
 <!--more-->
 
-This is a truly American book—one which showcases the power of a nation to accomplish a near-impossible task within a few months when fueled by pride, adventure, and a fear of embarrassment. While I am not old enough to remember the Apollo missions, those I know who do recall, with nostalgia, how they brought American together. While it is clear that no feet of engineering has since inspired so many Americans and that the Apollo missions feel like the glory days compared to today, there are clear parallels between the state of affairs in 1968 and those in 2020. In 1968, Frank Borman, William Anders, and James Lovell saved Christmas. Who will save us this year?
+This is a truly American book—one which showcases the power of a nation to accomplish a near-impossible task within a few months when fueled by pride, adventure, and a fear of embarrassment. While I am not old enough to remember the Apollo missions, those I know who do recall, with nostalgia, how they brought America together. While it is clear that no feet of engineering has since inspired so many Americans and that the Apollo missions feel like the glory days compared to today, there are clear parallels between the state of affairs in 1968 and those in 2020. In 1968, Frank Borman, William Anders, and James Lovell saved Christmas. Who will save us this year?
 
 Read this book if you are looking to feel inspired, want to understand the societal impact of the Apollo missions, or, like me, just really like rockets. You won't be disappointed.
 
