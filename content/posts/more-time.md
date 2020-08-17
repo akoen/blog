@@ -13,9 +13,10 @@ Even when we get overwhelmed and give ourselves more time to accomplish tasks, w
 
 The solution is to be deliberate with our time.
 
-Every day, pick a highlight. Block off an hour of time and decide, for /yourself,/ what is the most meaningful work you can do during that time.
+Every day, pick a highlight. Block off an hour of time and decide, for *yourself,* what is the most meaningful work you can do during that time.
   
 When we make a commitment to spend a portion of our day on tasks that are important to us, we accomplish our goals quickly. For example,
+
 - NASA successfully launched Apollo 8 143 days after first conception.
 - Derek Sivers wrote *Anything You Want*, his bestselling book, in ten days.
 - Equally, Brendan Eich wrote javascript in just ten days.
@@ -27,6 +28,7 @@ Then, once you've chosen a highlight, it's time to focus.
 Focus is the most fulfilling of human experiences. The feeling of unbroken concentration interspersed with inspiration is unparalleled, and those that can reach this state frequently are successful. However, the number of distractions that vie for our attention is increasing and so we need to be proactive in removing them.
 
 When you want to work efficiently:
+
 - Have a specific, worthwhile task to work on.
 - Tune out the outside world. Put away your phone and close old tabs.
 - Take real breaks. Stretch or go sit in the sun.
