@@ -8,8 +8,8 @@ hidden = true
 
 Currently on summer holiday enjoying my last days of freedom. Trying to climb a lot and see my friends as much as possible. Want to write more.
 
-Here is a picture of me doing some bouldering.
-![](/img/solo.jpg)
+Here is a picture of me doing some bouldering:
+![](/writing/img/solo.jpg)
 
 ---
 
