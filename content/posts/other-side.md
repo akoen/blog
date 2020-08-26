@@ -1,6 +1,6 @@
 
 +++
-title = "The Other Side"
+title = "The other side"
 date = "2020-05-22"
 tags = ["Climbing"]
 +++
