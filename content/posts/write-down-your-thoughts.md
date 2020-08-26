@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Write down your thoughts"
 date = "2020-08-25"
-tags = []
+tags = ["Writing"]
 +++
 
 > Memory is not so much a camera as a filter---the particulates it holds on to are nothing compared to what leaks through.
