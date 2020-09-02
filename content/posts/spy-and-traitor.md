@@ -10,7 +10,7 @@ tags = ["Books"]
 
 <!--more-->
 
-*The Spy and the Traitor* embodies why I love reading. It is an action movie told through words, and I could not put it down. There are secret drops, radioactive dust, perilous escapes across hostile borders and best of all it's completely true.
+*The Spy and the Traitor* embodies why I love reading. It is an action movie told through words, and I could not put it down. There are secret drops, radioactive dust, perilous escapes across hostile borders and, best of all, it's completely true.
 
 Read this if you want to be entertained.
 
