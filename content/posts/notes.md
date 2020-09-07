@@ -14,7 +14,7 @@ Imagine trying to solve a challenging math problem. You must keep track of the d
 
 Like in math, writing down challenging conceptual problems frees our mind from the responsibility of idea storage and allows it to focus on idea refinement. By doing so, it becomes possible to analyze, restructure, and synthesize ideas without losing track of them. 
 
-Moreover, when developing arguments in our head, it is easy to overlook points of confusion without realizing it. By writing down arguments in their entirety, their flaws become immediately apparent (this is called the [Feynman technique](https://fs.blog/2012/04/feynman-technique/))
+Moreover, when developing arguments in our head, it is easy to overlook points of confusion without realizing it. By writing down arguments in their entirety, their flaws become immediately apparent (this is called the [Feynman technique](https://fs.blog/2012/04/feynman-technique/)).
 
 As a result, there has long been an interest in developing tools to store ideas so that we may draw upon them at any time. For decades, countless note-taking apps and systems have been developed, yet they almost all fall short in one respect: they are too organized.
 
