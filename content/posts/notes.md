@@ -1,7 +1,7 @@
 +++
 title = "Developing ideas with notes"
 date = "2020-09-04"
-tags = ["Time"]
+tags = ["Writing", "Note Taking"]
 +++
 
 Just yesterday, I made all of my working notes publicly available at https://notes.alexkoen.com/. I did so because note-taking underlies all that I learn, and because I hope that by making my notes public I will be encouraged to refine them as much as possible.
