@@ -14,3 +14,5 @@ David Goggins dismantles the idea that we should strive for comfort. Our world i
 
 
 The most important lesson that I took away from this book is that there's no finish line---once we reach a goal nothing changes because it's the process of working towards it that brings us satisfaction. It is hard to imagine that any of the pain Goggins subjects himself to brings him any happiness at all, but the misery gives him purpose, and I think that we could all learn something from that.
+
+My rating: 4/5
