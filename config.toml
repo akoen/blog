@@ -73,3 +73,8 @@ theme = "hugo-theme-cactus-plus"
     safari = "https://www.alexkoen.com"
 	github = "https://www.github.com/akoen"
     instagram = "https://www.instagram.com/alex.koen"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
