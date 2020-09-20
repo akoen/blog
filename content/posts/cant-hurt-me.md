@@ -13,6 +13,7 @@ tags = ["Books"]
 David Goggins dismantles the idea that we should strive for comfort. Our world is obsessed with finding new ways to get more done with less effort, but it's a trap. In this book, David recounts the pain of losing a hundred pounds in three months, running a hundred-mile race in Death Valley in July, and literally ripping the skin off his hands while attempting to set the pull-up world record.
 
 
-The most important lesson that I took away from this book is that there's no finish line---once we reach a goal nothing changes because it's the process of working towards it that brings us satisfaction. Only when we embrace the elective suffering of the present do we find our rhythm and make progress. It is hard to imagine that the pain Goggins wilfully experiences brings him happiness---but I doubt happiness is what he's after..
+The most important lesson that I took away from this book is that there's no finish line---once we reach a goal nothing changes because it's the process of working towards it that brings us satisfaction. Only when we embrace the elective suffering of the present do we find our rhythm and make progress. It is hard to imagine that the pain Goggins wilfully experiences brings him happiness---but I suspect that happiness is not what he's looking for.
+
 
 My rating: 4/5
