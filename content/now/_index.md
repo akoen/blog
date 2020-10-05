@@ -6,16 +6,17 @@ hidden = true
 
 # What I'm doing right now
 
-Will be starting Engineering Physics at UBC next week. Trying to climb as much as possible while simultaneously updating my resume. I'm that coordinated.
+In the swing of things at school. I'm greatly enjoying Engineering Physics---especially meeting all the other incredible people in my program.
 
+This week I started work with UBC Rocket, where I'm helping to write software for three rockets, one of which is going to space (if all goes well).
 
-A few weeks ago I went paragliding with a friend and immediately got hooked:
-![](/writing/img/paragliding.png)
+Lastly, my friends and I tried to climb an amazing route on the Squamish Chief yesterday which quickly turned into a real adventure. After a belay device was dropped midway up we figured it couldn't get worse, until my friend dropped her shoes an hour and a half later.
 
-We're already planning to go back and learn to do it ourselves.
+![](/writing/img/sunset-strip.jpg)
+*Pictured: when we were still having fun :)*
 
-The other day I also reached a huge milestone and sent my first 5.12 on natural protection. For those of you who don't climb, I can unashamedly say that that is hard. I have never been so proud. Unfortunately, my belayer was too busy belaying to get the send pic.
+Love you all.
 
 ---
 
-Updated September 9th, 2020 from North Vancouver, British Columbia
+Updated October 4th, 2020 from North Vancouver, British Columbia
