@@ -6,17 +6,18 @@ hidden = true
 
 # What I'm doing right now
 
-In the swing of things at school. I'm greatly enjoying Engineering Physics---especially meeting all the other incredible people in my program.
+As my house gets torn apart piece-by-piece for renovations, I've moved in with my Dad in Coquitlam. It's great to spend more time with him, and he's making use of his retirement by building me a bigger desk so that I have more space to do math problems.
 
-This week I started work with UBC Rocket, where I'm helping to write software for three rockets, one of which is going to space (if all goes well).
+School has been a struggle, and so I've been trying to break the monotony by getting outside:
 
-Lastly, my friends and I tried to climb an amazing route on the Squamish Chief yesterday which quickly turned into a real adventure. After a belay device was dropped midway up we figured it couldn't get worse, until my friend dropped her shoes an hour and a half later.
+{{< video src="vulcan" width="400px" >}}
 
-![](/writing/img/sunset-strip.jpg)
-*Pictured: when we were still having fun :)*
+And channelling my inner Wim Hof:
+
+{{< video src="kennedy" width="400px" >}}
 
 Love you all.
 
 ---
 
-Updated October 4th, 2020 from North Vancouver, British Columbia
+Updated November 1st, 2020 from Coquitlam, British Columbia
