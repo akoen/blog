@@ -6,18 +6,20 @@ hidden = true
 
 # What I'm doing right now
 
-As my house gets torn apart piece-by-piece for renovations, I've moved in with my Dad in Coquitlam. It's great to spend more time with him, and he's making use of his retirement by building me a bigger desk so that I have more space to do math problems.
+School has been extremely challenging, especially because of the apocalypse, and this month I got quite sick from stress and Zoom. As a result, I dropped two courses, but I'm looking forward to taking them in person.
 
-School has been a struggle, and so I've been trying to break the monotony by getting outside:
+My dad finished building me a beautiful desk, which I've absolutely loved working on.
 
-{{< video src="vulcan" width="400px" >}}
+![](desk.jpeg)
 
-And channelling my inner Wim Hof:
+Otherwise, I've been working mostly on coursework and side projects (trying to write my own neural network), but always make time on Saturdays to get outside.
 
-{{< video src="kennedy" width="400px" >}}
+![](hollyburn.jpeg)
+![](hollyburn-2.jpeg)
 
-Love you all.
+
+Cheerio.
 
 ---
 
-Updated November 1st, 2020 from Coquitlam, British Columbia
+Updated December 8th, 2020 from Coquitlam, British Columbia
