@@ -4,11 +4,11 @@ date = "2020-09-04"
 tags = ["Writing", "Note Taking"]
 +++
 
-Just yesterday, I made all of my working notes publicly available at https://notes.alexkoen.com/. I did so because note-taking underlies all that I learn, and because I hope that by making my notes public I will be encouraged to refine them as much as possible.
+Just yesterday, I made all of my working notes publicly available at https://notes.alexkoen.com/. I did so because note-taking underlies all that I learn, and because I believe that by doing so I will be encouraged to continuously refine my ideas.
 
 <!--more-->
 
-A fundamental lesson repeated throughout this blog is that writing serves more than to record ideas; writing is the process through which ideas are transformed over time into viewpoints. At first conception, ideas are always unrefined and incomplete. To form a coherent argument, they must be broken down, scrutinized, and reworked countless times---a process which cannot be undertaken inside your head.
+A lesson repeated throughout this blog is that writing serves more than to record ideas; writing is the process through which your ideas become part of the way you think. At first conception, ideas are always unrefined and incomplete. To form a coherent argument, they must be broken down, scrutinized, and reworked countless times---a process that cannot be undertaken inside your head.
 
 Imagine trying to solve a challenging math problem. You must keep track of the different numbers, formulae, and intermediate results. If the problem is easy, this is simple to do inside your head, yet as it scales it quickly becomes impossible to keep track of it all without pen and paper.
 
