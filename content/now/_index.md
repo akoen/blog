@@ -14,8 +14,8 @@ My dad finished building me a beautiful desk, which I've absolutely loved workin
 
 Otherwise, I've been working mostly on coursework and side projects (trying to write my own neural network), but always make time on Saturdays to get outside.
 
-![](hollyburn.jpeg)
-![](hollyburn-2.jpeg)
+![](./hollyburn.jpeg)
+![](./hollyburn-2.jpeg)
 
 
 Cheerio.
